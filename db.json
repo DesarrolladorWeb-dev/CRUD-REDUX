@@ -1,0 +1,24 @@
+{
+  "productos": [
+    {
+      "id": "6b09",
+      "nombre": "Tienda Virtual",
+      "precio": 13
+    },
+    {
+      "id": "b977",
+      "nombre": "ewew",
+      "precio": 23
+    },
+    {
+      "id": "3947",
+      "nombre": "ewew",
+      "precio": 23
+    },
+    {
+      "id": "395d",
+      "nombre": "Juan",
+      "precio": 23
+    }
+  ]
+}
